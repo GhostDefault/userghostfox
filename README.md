@@ -11,6 +11,11 @@
   <img align="center" alt="ghost-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ghost-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<div>
+ 
+ 
+ ![Snake animation](https://github.com/userghostfox/userghostfox/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
+ <div>
   <img align="center" alt="ghost-default" src="https://sa1.narvii.com/6557/ae6eae16f16238f1c10f8daedebd8cf32039ebd4_hq.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL3NhMS5uYXJ2aWkuY29tLzY1NTcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYzMTMwMzY5Mn19fV19&Signature=QTX3nolpRQgwRuR5iqxnbwhp43qm~GyZy~QBPCW~ebxVYP3lAlQyjBsxYcKPIzGmy8YtDzR3R8w3lZBmQevZozbJSf-AZ4D9i~fnQ2l~Pc9VJA4VKEzg0c1SCmRXwHIrJ4dXfJqhFybSVPBZEleo3nL39VRPXP-zmQqgFhfmgvE_&Key-Pair-Id=APKAICUDKLX2XOCDJKNA">
 </div>
