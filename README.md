@@ -1,7 +1,7 @@
 ## Eae! Eu sou o Ghost
 ### Dev Full Stack
 <div>
-  <img align="right" alt="ghost-default" height="150" width="150" src="https://sa1.narvii.com/6557/ae6eae16f16238f1c10f8daedebd8cf32039ebd4_hq.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL3NhMS5uYXJ2aWkuY29tLzY1NTcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYzMTMwMzY5Mn19fV19&Signature=QTX3nolpRQgwRuR5iqxnbwhp43qm~GyZy~QBPCW~ebxVYP3lAlQyjBsxYcKPIzGmy8YtDzR3R8w3lZBmQevZozbJSf-AZ4D9i~fnQ2l~Pc9VJA4VKEzg0c1SCmRXwHIrJ4dXfJqhFybSVPBZEleo3nL39VRPXP-zmQqgFhfmgvE_&Key-Pair-Id=APKAICUDKLX2XOCDJKNA">
+  <img align="right" alt="ghost-default" height="150" width="150" src="https://i.imgur.com/kZ4eRc6.gif">
 </div>  
  <div>
   <a href="https://github.com/userghostfox">
